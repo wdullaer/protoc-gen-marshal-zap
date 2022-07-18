@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	pbzap "github.com/kei2100/protoc-gen-marshal-zap"
+	pbzap "github.com/wdullaer/protoc-gen-marshal-zap"
 	"google.golang.org/protobuf/compiler/protogen"
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"

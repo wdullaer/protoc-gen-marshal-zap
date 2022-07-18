@@ -7,7 +7,7 @@
 package types
 
 import (
-	_ "github.com/kei2100/protoc-gen-marshal-zap"
+	_ "github.com/wdullaer/protoc-gen-marshal-zap"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	structpb "google.golang.org/protobuf/types/known/structpb"

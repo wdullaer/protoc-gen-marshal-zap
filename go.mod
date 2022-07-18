@@ -1,4 +1,4 @@
-module github.com/kei2100/protoc-gen-marshal-zap
+module github.com/wdullaer/protoc-gen-marshal-zap
 
 go 1.18
 
